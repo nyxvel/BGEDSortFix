@@ -1,0 +1,12 @@
+{
+  "name": "bgedsortfix",
+  "version-semver": "1.0.0",
+  "dependencies": [
+    "directxmath",
+    "directxtk",
+    "fmt",
+    "rapidcsv",
+    "spdlog",
+    "xbyak"
+  ]
+}
